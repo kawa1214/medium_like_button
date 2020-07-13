@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - medium_like_button (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - medium_like_button (from `.symlinks/plugins/medium_like_button/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  medium_like_button:
+    :path: ".symlinks/plugins/medium_like_button/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  medium_like_button: 8f18f3e8fc27494fa8135692bd1573543441b676
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.9.1
